@@ -25,7 +25,7 @@ end
 def return_string_array(array = ["You", "Got", "Real", "Problems"])
   count = 0
   while count < array.length do
-    puts array[count].to_s
+    array[count].to_s
     count += 1
   end
 end
