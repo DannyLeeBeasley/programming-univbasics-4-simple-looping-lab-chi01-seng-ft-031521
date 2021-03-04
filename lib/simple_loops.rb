@@ -3,7 +3,7 @@ def loop_message_five_times(message = "Hello World")
   while counter <= 5 do
   puts message
   counter += 1
-end
+ end
 end
 
 def loop_message_n_times(message = "Hello World", n = 5)
@@ -11,7 +11,7 @@ def loop_message_n_times(message = "Hello World", n = 5)
   while counter <= n do
   puts message
   counter += 1
-end
+ end
 end
 
 def output_array(cheer = ["Hoo!", "Hoo!", "Hoo!", "Hoosiers!"])
@@ -19,4 +19,5 @@ def output_array(cheer = ["Hoo!", "Hoo!", "Hoo!", "Hoosiers!"])
   while cheer[counter] do
     puts cheer[counter]
     counter += 1 
-  
+  end
+end
