@@ -14,4 +14,6 @@ def loop_message_n_times(message = "Hello World", n = 5)
 end
 end
 
-
+def output_array(cheer = ["Hoo!", "Hoo!", "Hoo!", "Hoosiers!"])
+  
+  
