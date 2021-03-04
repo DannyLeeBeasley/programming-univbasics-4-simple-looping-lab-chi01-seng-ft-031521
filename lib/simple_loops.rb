@@ -16,5 +16,5 @@ end
 
 def output_array(cheer = ["Hoo!", "Hoo!", "Hoo!", "Hoosiers!"])
   counter = 0 
-  while 
+  while cheer
   
