@@ -22,7 +22,7 @@ def output_array(cheer = ["Hoo!", "Hoo!", "Hoo!", "Hoosiers!"])
   end
 end
 
-def return_string_array(array = ["You", "Got", "Real", "Problems")
+def return_string_array(array = ["You", "Got", "Real", "Problems"])
   counter = 0
   while array[counter] do
     puts array[counter]
