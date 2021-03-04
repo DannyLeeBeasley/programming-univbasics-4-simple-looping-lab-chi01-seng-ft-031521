@@ -21,3 +21,6 @@ def output_array(cheer = ["Hoo!", "Hoo!", "Hoo!", "Hoosiers!"])
     counter += 1 
   end
 end
+
+def return_string_array
+  
